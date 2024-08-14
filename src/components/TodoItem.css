@@ -1,0 +1,25 @@
+/* src/components/TodoItem.css */
+.todo-item {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .todo-item h3 {
+    margin: 0;
+  }
+  
+  .todo-item p {
+    margin: 5px 0;
+  }
+  
+  .todo-item button {
+    background-color: #f44336;
+  }
+  
+  .todo-item button:hover {
+    background-color: #e53935;
+  }
+  

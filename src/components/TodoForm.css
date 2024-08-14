@@ -1,0 +1,11 @@
+/* src/components/TodoForm.css */
+.form-container {
+    margin: 20px;
+  }
+  
+  .input-error {
+    color: red;
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
